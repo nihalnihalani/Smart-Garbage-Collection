@@ -6,4 +6,4 @@
 ![](images/robot3.jpg)
 ![](images/robot4.jpg)
 
-![](images/SequenceDiagram.png)
+![](images/Sequence Diagram.png)
