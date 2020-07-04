@@ -5,4 +5,4 @@
 ![](images/robot2.jpg)
 ![](images/robot3.jpg)
 ![](images/robot4.jpg)
-![](images/Sequence Diagram.png)
+![](images/SequenceDiagram.png)
