@@ -5,7 +5,7 @@ This repository encompasses the research, design, and implementation of a Smart 
 
 ## Implementation: Code for the robot's control system, object classifier, and autonomous navigation module.
 
-##Usage
+## Usage
 This repository serves as a valuable reference for:
 Researchers and developers engaged in autonomous robots and waste management systems.
 Students and educators interested in the realm of robotics and artificial intelligence.
